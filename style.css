@@ -56,6 +56,8 @@ ul {
     width: 200px;
     font-size: 14pt;
 
+}
+
 ul:before {
     content:'Here is a list of my favorite online learning platforms:';
     font-family: 'Permanent Marker', cursive;
