@@ -59,14 +59,6 @@ ul {
 } 
 
 ul:before {
-    content:'This is my first and brand new tiny webpage';
-    font-family: 'Permanent Marker', cursive;
-    color: rgb(28, 33, 104);
-    background-color: rgba(245, 233, 149, 0.5);
-    font-size: 18pt;
-}
-
-ul:before {
     content:'Here is a list of my favorite online learning platforms:';
     font-family: 'Permanent Marker', cursive;
     color: rgb(28, 33, 104);
